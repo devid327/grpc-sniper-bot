@@ -1,15 +1,12 @@
 {
-  "name": "grpc trading tool",
+  "name": "grpc sniper bot",
   "version": "1.0.0",
   "description": "grpc copy trading sniper bot",
-  "main": "help.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "vincentso",
-  "url": "https://github.com/0xTan1319/grpc-copy-trading-sniper-bot/issues",
-  "homepage": "https://github.com/0xTan1319/grpc-copy-trading-sniper-bot",
   "license": "ISC",
   "dependencies": {
     "@bloxroute/solana-trader-client-ts": "^2.1.6",
